@@ -1,0 +1,2 @@
+API = 'https://pushbear.ftqq.com/sub'
+sendkey = 'XXXXXXXXXXXXXXX'  # 通道的SendKey，必填
