@@ -3,10 +3,10 @@ import requests
 import config
 
 
-def push(key=config.default_sendkey, title='Empty Title', message=None):
+def push(key=config.DEFAULT_SENDKEY, title='Empty Title', message=None):
     """
 
-    :param key: Channel Key, default Value is config.default_sendkey
+    :param key: Channel Key, default Value is config.DEFAULT_SENDKEY
     :param title: Title of the message
     :param message: Full-Message,Markdown supported, default Value is None
     """
